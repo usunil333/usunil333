@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunil Uprety</h1>
-<h3 align="center">I am a .Net Developer. I’ve been developing software and love every minute of it. I’m always learning new things, so if there’s something you need that I don’t know how to do, please don’t hesitate to ask! I’m always looking for ways to improve my skillset, so if you have any ideas or suggestions, please feel free to reach out!</h3>
+<h3 align="center">I am a Software Developer. I’ve been developing software and love every minute of it. I’m always learning new things, so if there’s something you need that I don’t know how to do, please don’t hesitate to ask! I’m always looking for ways to improve my skillset, so if you have any ideas or suggestions, please feel free to reach out!</h3>
 
 - 🌱 I’m currently learning **Spring Boot**
 
